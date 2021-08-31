@@ -26,9 +26,9 @@ When brought back online:
 ---
 
 ## Screenshots
-<!-- 
-![Portfolio Shot](/Images/.png)
-![Portfolio Shot2](/Images/.png) -->
+
+![Shot](/Images/Shot1.png)
+
 
 ---
 
@@ -41,4 +41,5 @@ Github Profile: https://github.com/TMC-glitch
 
 ---
 ### Source & Code
-- https://github.com/TMC-glitch/BudgetTracker
+##### Deployed Site  https://budget-tracker-lebron.herokuapp.com/
+##### Github Code https://github.com/TMC-glitch/BudgetTracker
